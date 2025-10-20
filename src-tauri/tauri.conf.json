@@ -12,8 +12,15 @@
   "app": {
     "windows": [
       {
-        "title": "repro",
-        "width": 800,
+        "title": "window_1",
+        "label": "window_1",
+        "width": 400,
+        "height": 600
+      },
+      {
+        "title": "window_2",
+        "label": "window_2",
+        "width": 400,
         "height": 600
       }
     ],
